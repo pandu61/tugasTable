@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <table>
+    <tr>
+        <th>Name</th>
+        <th colspan="2">Telephone</th>
+      </tr>
+      <tr>
+        <td>Pandu</td>
+        <td>+6288276642xxx</td>
+      </tr>
+      <tr>
+        <td>ferdi</td>
+        <td>+62882232342xxx</td>
+      </tr>
+    </table>
+</body>
+</html>
